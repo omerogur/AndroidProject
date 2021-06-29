@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">silinecek2020</string>
+    <string name="email">Lütfen Email Giriniz.</string>
+    <string name="password">Lütfen Şifre Giriniz</string>
+    <string name="buton_login">GİRİŞ</string>
+    <string name="buton_register">KAYIT OL</string>
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">silinecek2020</string>
+    <string name="email">Please Enter Email</string>
+    <string name="password">Please Enter Password</string>
+    <string name="buton_login">LOGIN</string>
+    <string name="buton_register">REGISTER</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="advert_title">HEMEN İLAN OLUŞTUR</string>
+    <string name="advert_title2">İS İLANI OLUŞTUR</string>
+    <string name="advert_title3">İŞ Mİ ARIYORSUN ?</string>
+    <string name="advert_title4">Hemen Kendine Uygun İşi Bul</string>
+    <string name="buton_createJob">İŞ İLANI OLUŞTUR</string>
+    <string name="buton_findJob">İŞ ARIYORUM</string>
+
+
+</resources>

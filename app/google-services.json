@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556285771672",
+    "project_id": "evdeisproje",
+    "storage_bucket": "evdeisproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556285771672:android:6db11178dba608b39335ed",
+        "android_client_info": {
+          "package_name": "com.example.evdeis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556285771672-mtevne0f0sl1oh60iadku191p2pkruu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMgVGxfqTWyEQJlKrVyhQXStXWxsmhJZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556285771672-mtevne0f0sl1oh60iadku191p2pkruu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
